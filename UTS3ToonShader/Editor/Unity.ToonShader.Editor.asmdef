@@ -1,0 +1,34 @@
+{
+    "name": "Unity.Toonshader.Editor",
+    "references": [
+        "Unity.Toonshader",
+        "Unity.RenderPipelines.HighDefinition.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "",
+            "define": "HDRP_IS_INSTALLED_FOR_UTS"
+        },
+        {
+            "name": "com.unity.render-pipelines.core",
+            "expression": "",
+            "define": "SRPCORE_IS_INSTALLED_FOR_UTS"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "",
+            "define": "URP_IS_INSTALLED_FOR_UTS"
+        }
+    ],
+    "noEngineReferences": false
+}
