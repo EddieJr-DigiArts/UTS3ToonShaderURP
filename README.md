@@ -5,4 +5,5 @@
  
  I didn't create any of the code or files of this repository.
  Please refer to the original repository link here: https://github.com/Unity-Technologies/com.unity.toonshader
+ 
  Make sure to check the license on the link above. The documentation and tutorials are also there.
